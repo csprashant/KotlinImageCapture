@@ -1,0 +1,2 @@
+rootProject.name = "Kotlin ImageCapture"
+include ':app'
